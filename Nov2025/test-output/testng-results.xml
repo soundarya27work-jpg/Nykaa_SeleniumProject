@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-10-30T14:49:10 IST" name="Suite" finished-at="2025-10-30T14:50:43 IST" duration-ms="92452">
+    <groups>
+    </groups>
+    <test started-at="2025-10-30T14:49:10 IST" name="Test" finished-at="2025-10-30T14:50:43 IST" duration-ms="92452">
+      <class name="com.nykaa.tests.NykaaShoppingTest">
+        <test-method is-config="true" signature="setupReport()[pri:0, instance:com.nykaa.tests.NykaaShoppingTest@752325ad]" started-at="2025-10-30T14:49:10 IST" name="setupReport" finished-at="2025-10-30T14:49:10 IST" duration-ms="369" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupReport -->
+        <test-method is-config="true" signature="initializeBrowser()[pri:0, instance:com.nykaa.tests.NykaaShoppingTest@752325ad]" started-at="2025-10-30T14:49:10 IST" name="initializeBrowser" finished-at="2025-10-30T14:49:14 IST" duration-ms="3339" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method signature="testNykaaShoppingFlow()[pri:0, instance:com.nykaa.tests.NykaaShoppingTest@752325ad]" started-at="2025-10-30T14:49:14 IST" name="testNykaaShoppingFlow" finished-at="2025-10-30T14:50:37 IST" duration-ms="83340" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNykaaShoppingFlow -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.nykaa.tests.NykaaShoppingTest@752325ad]" started-at="2025-10-30T14:50:37 IST" name="tearDown" finished-at="2025-10-30T14:50:43 IST" duration-ms="5720" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testNykaaShoppingFlow status=SUCCESS method=NykaaShoppingTest.testNykaaShoppingFlow()[pri:0, instance:com.nykaa.tests.NykaaShoppingTest@752325ad] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="closeReport()[pri:0, instance:com.nykaa.tests.NykaaShoppingTest@752325ad]" started-at="2025-10-30T14:50:43 IST" name="closeReport" finished-at="2025-10-30T14:50:43 IST" duration-ms="355" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeReport -->
+      </class> <!-- com.nykaa.tests.NykaaShoppingTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
