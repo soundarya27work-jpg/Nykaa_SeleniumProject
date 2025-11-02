@@ -58,7 +58,7 @@ Clicked element: By.xpath: //button[contains(., 'Sign in') or contains(., 'Login
 Clicked element: By.xpath: //button[contains(., 'Sign in with Mobile / Email')]
 ?Typed text into: By.xpath: //input[@type='tel' or @placeholder='Enter Phone Number']
 Clicked element: By.className: css-15q5a8e
-OTP sent — please enter it manually within 30 seconds...
+OTP sent â€” please enter it manually within 30 seconds...
 ?Typed text into: By.xpath: //input[contains(@placeholder, 'Search')]
 Searching for: plum serum
 Clicked element: By.cssSelector: .wishlist_button_text.css-17jex54
